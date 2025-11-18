@@ -1,0 +1,3 @@
+This is the final test using the new GitHub API-based upload script.
+Upload date: 2025-11-18
+Status: Testing automated upload workflow.
