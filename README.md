@@ -8,8 +8,8 @@ Before reporting an issue, please verify that your request was formatted correct
 * **Decision Tree:** Ensure you have constructed a complete decision tree.
 
 ### 2. Contact Support
-If you have confirmed that your submission is correct but you still have not received a result, please contact the **QREAL Website Admin Team**.
+If you have confirmed that your submission is correct but you still have not received a result, please contact the **QREAL Website Admin Team** (see QREAL website).
 
 **When reporting an issue, please include:**
-1.  The **Request File** you submitted.
-2.  Your **QREAL Username** (this can be downloaded/found on the QREAL website).
+1.  The **Request File** you submitted (this can be downloaded on the QREAL website).
+2.  Your **QREAL Username**.
